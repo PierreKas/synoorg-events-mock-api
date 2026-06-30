@@ -1,0 +1,26 @@
+{
+  "data": {
+    "items": [
+      {
+        "id": "org_001",
+        "name": "TechHub Kinshasa",
+        "avatar": "https://picsum.photos/seed/org001/100/100"
+      },
+      {
+        "id": "org_002",
+        "name": "Dev Community DRC",
+        "avatar": "https://picsum.photos/seed/org002/100/100"
+      },
+      {
+        "id": "org_003",
+        "name": "Women in Business DRC",
+        "avatar": "https://picsum.photos/seed/org003/100/100"
+      },
+      {
+        "id": "org_004",
+        "name": "AI Africa Institute",
+        "avatar": "https://picsum.photos/seed/org004/100/100"
+      }
+    ]
+  }
+}

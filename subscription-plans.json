@@ -1,0 +1,54 @@
+{
+  "data": {
+    "items": [
+      {
+        "id": "plan_starter",
+        "name": "Starter",
+        "description": "Idéal pour les particuliers qui débutent",
+        "monthlyPrice": 4.99,
+        "yearlyPrice": 49.99,
+        "currency": "USD",
+        "features": [
+          "5 activités par mois",
+          "Notifications de base",
+          "Support par email"
+        ],
+        "isPopular": false,
+        "color": "#78909C"
+      },
+      {
+        "id": "plan_pro",
+        "name": "Pro",
+        "description": "Pour les professionnels actifs",
+        "monthlyPrice": 12.99,
+        "yearlyPrice": 129.99,
+        "currency": "USD",
+        "features": [
+          "Activités illimitées",
+          "Notifications avancées",
+          "Accès prioritaire",
+          "Support prioritaire"
+        ],
+        "isPopular": true,
+        "color": "#00897B"
+      },
+      {
+        "id": "plan_enterprise",
+        "name": "Enterprise",
+        "description": "Pour les organisations et équipes",
+        "monthlyPrice": 29.99,
+        "yearlyPrice": 299.99,
+        "currency": "USD",
+        "features": [
+          "Tout ce qui est dans Pro",
+          "Accès organisateur",
+          "Analytics avancés",
+          "Support dédié 24/7",
+          "API Access"
+        ],
+        "isPopular": false,
+        "color": "#1565C0"
+      }
+    ]
+  }
+}

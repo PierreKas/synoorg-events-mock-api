@@ -1,0 +1,140 @@
+{
+  "data": {
+    "items": [
+      {
+        "id": "act_001",
+        "title": "Summit Tech Afrique 2026",
+        "shortDescription": "Le plus grand rassemblement technologique d'Afrique centrale réunissant innovateurs et investisseurs.",
+        "coverImage": "https://picsum.photos/seed/act001/800/400",
+        "startDateTime": "2026-06-29T14:00:00.000Z",
+        "endDateTime": "2026-06-29T18:00:00.000Z",
+        "status": "ongoing",
+        "externalLink": "https://www.synoorg.com/events/summit-tech-afrique-2026",
+        "organizer": {
+          "id": "org_001",
+          "name": "TechHub Kinshasa",
+          "avatar": "https://picsum.photos/seed/org001/100/100"
+        },
+        "tags": ["Technologie", "Innovation", "Business"]
+      },
+      {
+        "id": "act_002",
+        "title": "Atelier Flutter & Mobile Development",
+        "shortDescription": "Formation intensive sur le développement mobile avec Flutter destinée aux développeurs juniors.",
+        "coverImage": "https://picsum.photos/seed/act002/800/400",
+        "startDateTime": "2026-06-29T19:05:00.000Z",
+        "endDateTime": "2026-06-29T22:00:00.000Z",
+        "status": "pending",
+        "externalLink": "https://www.synoorg.com/events/atelier-flutter-2026",
+        "organizer": {
+          "id": "org_002",
+          "name": "Dev Community DRC",
+          "avatar": "https://picsum.photos/seed/org002/100/100"
+        },
+        "tags": ["Flutter", "Mobile", "Formation"]
+      },
+      {
+        "id": "act_003",
+        "title": "Forum Entrepreneuriat Féminin",
+        "shortDescription": "Espace d'échange et de réseautage pour les femmes entrepreneures d'Afrique centrale.",
+        "coverImage": "https://picsum.photos/seed/act003/800/400",
+        "startDateTime": "2026-07-05T09:00:00.000Z",
+        "endDateTime": "2026-07-05T17:00:00.000Z",
+        "status": "pending",
+        "externalLink": "https://www.synoorg.com/events/forum-entrepreneuriat-feminin",
+        "organizer": {
+          "id": "org_003",
+          "name": "Women in Business DRC",
+          "avatar": "https://picsum.photos/seed/org003/100/100"
+        },
+        "tags": ["Entrepreneuriat", "Femmes", "Réseautage"]
+      },
+      {
+        "id": "act_004",
+        "title": "Hackathon Solutions Agricoles",
+        "shortDescription": "48h pour concevoir des solutions numériques innovantes pour l'agriculture congolaise.",
+        "coverImage": "https://picsum.photos/seed/act004/800/400",
+        "startDateTime": "2026-07-12T08:00:00.000Z",
+        "endDateTime": "2026-07-14T08:00:00.000Z",
+        "status": "pending",
+        "externalLink": "https://www.synoorg.com/events/hackathon-agricole-2026",
+        "organizer": {
+          "id": "org_001",
+          "name": "TechHub Kinshasa",
+          "avatar": "https://picsum.photos/seed/org001/100/100"
+        },
+        "tags": ["Hackathon", "Agriculture", "Innovation"]
+      },
+      {
+        "id": "act_005",
+        "title": "Conférence Intelligence Artificielle",
+        "shortDescription": "Exploration des opportunités et défis de l'IA pour les entreprises africaines.",
+        "coverImage": "https://picsum.photos/seed/act005/800/400",
+        "startDateTime": "2026-07-20T10:00:00.000Z",
+        "endDateTime": "2026-07-20T16:00:00.000Z",
+        "status": "pending",
+        "externalLink": "https://www.synoorg.com/events/conference-ia-2026",
+        "organizer": {
+          "id": "org_004",
+          "name": "AI Africa Institute",
+          "avatar": "https://picsum.photos/seed/org004/100/100"
+        },
+        "tags": ["Intelligence Artificielle", "Business", "Innovation"]
+      },
+      {
+        "id": "act_006",
+        "title": "Expo Startups Kinshasa 2026",
+        "shortDescription": "Vitrine des startups les plus prometteuses de la RDC devant des investisseurs internationaux.",
+        "coverImage": "https://picsum.photos/seed/act006/800/400",
+        "startDateTime": "2026-05-15T09:00:00.000Z",
+        "endDateTime": "2026-05-15T18:00:00.000Z",
+        "status": "past",
+        "externalLink": "https://www.synoorg.com/events/expo-startups-2026",
+        "organizer": {
+          "id": "org_002",
+          "name": "Dev Community DRC",
+          "avatar": "https://picsum.photos/seed/org002/100/100"
+        },
+        "tags": ["Startups", "Investissement", "Business"]
+      },
+      {
+        "id": "act_007",
+        "title": "Workshop Design Thinking",
+        "shortDescription": "Méthodologie pratique de design thinking appliquée aux problèmes locaux africains.",
+        "coverImage": "https://picsum.photos/seed/act007/800/400",
+        "startDateTime": "2026-05-22T13:00:00.000Z",
+        "endDateTime": "2026-05-22T17:00:00.000Z",
+        "status": "past",
+        "externalLink": "https://www.synoorg.com/events/workshop-design-thinking",
+        "organizer": {
+          "id": "org_003",
+          "name": "Women in Business DRC",
+          "avatar": "https://picsum.photos/seed/org003/100/100"
+        },
+        "tags": ["Design", "Innovation", "Formation"]
+      },
+      {
+        "id": "act_008",
+        "title": "Meetup Développeurs Kinshasa",
+        "shortDescription": "Rencontre mensuelle de la communauté des développeurs de Kinshasa autour de présentations techniques.",
+        "coverImage": "https://picsum.photos/seed/act008/800/400",
+        "startDateTime": "2026-06-10T18:00:00.000Z",
+        "endDateTime": "2026-06-10T21:00:00.000Z",
+        "status": "past",
+        "externalLink": "https://www.synoorg.com/events/meetup-dev-juin-2026",
+        "organizer": {
+          "id": "org_004",
+          "name": "AI Africa Institute",
+          "avatar": "https://picsum.photos/seed/org004/100/100"
+        },
+        "tags": ["Développement", "Communauté", "Networking"]
+      }
+    ],
+    "meta": {
+      "currentPage": 1,
+      "totalPages": 1,
+      "totalItems": 8,
+      "itemsPerPage": 20
+    }
+  }
+}

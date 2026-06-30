@@ -1,0 +1,18 @@
+{
+  "data": {
+    "item": {
+      "id": "sub_001",
+      "userId": "user_123",
+      "planId": "plan_pro",
+      "planName": "Pro",
+      "billingCycle": "monthly",
+      "status": "active",
+      "currentPeriodStart": "2026-06-01T00:00:00.000Z",
+      "currentPeriodEnd": "2026-07-01T00:00:00.000Z",
+      "autoRenew": true,
+      "amount": 12.99,
+      "currency": "USD",
+      "paymentMethodId": "pm_001"
+    }
+  }
+}

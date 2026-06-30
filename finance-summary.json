@@ -1,0 +1,45 @@
+{
+  "data": {
+    "item": {
+      "currentPlan": "Pro",
+      "subscriptionStatus": "active",
+      "subscriptionExpiry": "2026-07-01T00:00:00.000Z",
+      "totalSpent": 142.89,
+      "currency": "USD",
+      "monthlyBreakdown": [
+        {
+          "month": "2026-01",
+          "monthLabel": "Janvier",
+          "amount": 12.99
+        },
+        {
+          "month": "2026-02",
+          "monthLabel": "Février",
+          "amount": 12.99
+        },
+        {
+          "month": "2026-03",
+          "monthLabel": "Mars",
+          "amount": 12.99
+        },
+        {
+          "month": "2026-04",
+          "monthLabel": "Avril",
+          "amount": 49.99
+        },
+        {
+          "month": "2026-05",
+          "monthLabel": "Mai",
+          "amount": 12.99
+        },
+        {
+          "month": "2026-06",
+          "monthLabel": "Juin",
+          "amount": 12.99
+        }
+      ],
+      "nextBillingDate": "2026-07-01T00:00:00.000Z",
+      "nextBillingAmount": 12.99
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "item": {
+      "id": "act_002",
+      "title": "Atelier Flutter & Mobile Development",
+      "shortDescription": "Formation intensive sur le développement mobile avec Flutter destinée aux développeurs juniors.",
+      "coverImage": "https://picsum.photos/seed/act002/800/400",
+      "startDateTime": "2026-06-29T19:05:00.000Z",
+      "endDateTime": "2026-06-29T22:00:00.000Z",
+      "status": "pending",
+      "externalLink": "https://www.synoorg.com/events/atelier-flutter-2026",
+      "organizer": {
+        "id": "org_002",
+        "name": "Dev Community DRC",
+        "avatar": "https://picsum.photos/seed/org002/100/100"
+      },
+      "tags": ["Flutter", "Mobile", "Formation"]
+    }
+  }
+}

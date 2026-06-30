@@ -1,0 +1,131 @@
+{
+  "data": {
+    "items": [
+      {
+        "id": "pay_001",
+        "date": "2026-06-01T09:15:00.000Z",
+        "amount": 12.99,
+        "currency": "USD",
+        "plan": "Pro",
+        "billingCycle": "monthly",
+        "status": "success",
+        "paymentMethod": {
+          "type": "card",
+          "brand": "Visa",
+          "last4": "4242"
+        },
+        "reference": "TXN-20260601-001"
+      },
+      {
+        "id": "pay_002",
+        "date": "2026-05-01T10:30:00.000Z",
+        "amount": 12.99,
+        "currency": "USD",
+        "plan": "Pro",
+        "billingCycle": "monthly",
+        "status": "success",
+        "paymentMethod": {
+          "type": "mobile_money",
+          "provider": "Vodacom",
+          "last4": "7890"
+        },
+        "reference": "TXN-20260501-002"
+      },
+      {
+        "id": "pay_003",
+        "date": "2026-04-01T08:00:00.000Z",
+        "amount": 49.99,
+        "currency": "USD",
+        "plan": "Pro",
+        "billingCycle": "yearly",
+        "status": "failed",
+        "paymentMethod": {
+          "type": "flexpay",
+          "last4": null
+        },
+        "reference": "TXN-20260401-003"
+      },
+      {
+        "id": "pay_004",
+        "date": "2026-03-01T14:20:00.000Z",
+        "amount": 12.99,
+        "currency": "USD",
+        "plan": "Pro",
+        "billingCycle": "monthly",
+        "status": "success",
+        "paymentMethod": {
+          "type": "card",
+          "brand": "Mastercard",
+          "last4": "5555"
+        },
+        "reference": "TXN-20260301-004"
+      },
+      {
+        "id": "pay_005",
+        "date": "2026-02-01T11:45:00.000Z",
+        "amount": 12.99,
+        "currency": "USD",
+        "plan": "Pro",
+        "billingCycle": "monthly",
+        "status": "pending",
+        "paymentMethod": {
+          "type": "mobile_money",
+          "provider": "Airtel",
+          "last4": "3456"
+        },
+        "reference": "TXN-20260201-005"
+      },
+      {
+        "id": "pay_006",
+        "date": "2026-01-01T09:00:00.000Z",
+        "amount": 4.99,
+        "currency": "USD",
+        "plan": "Starter",
+        "billingCycle": "monthly",
+        "status": "success",
+        "paymentMethod": {
+          "type": "mobile_money",
+          "provider": "Orange",
+          "last4": "1234"
+        },
+        "reference": "TXN-20260101-006"
+      },
+      {
+        "id": "pay_007",
+        "date": "2025-12-01T16:00:00.000Z",
+        "amount": 4.99,
+        "currency": "USD",
+        "plan": "Starter",
+        "billingCycle": "monthly",
+        "status": "success",
+        "paymentMethod": {
+          "type": "mobile_money",
+          "provider": "Africel",
+          "last4": "6789"
+        },
+        "reference": "TXN-20251201-007"
+      },
+      {
+        "id": "pay_008",
+        "date": "2025-11-01T13:10:00.000Z",
+        "amount": 4.99,
+        "currency": "USD",
+        "plan": "Starter",
+        "billingCycle": "monthly",
+        "status": "failed",
+        "paymentMethod": {
+          "type": "card",
+          "brand": "Visa",
+          "last4": "4242"
+        },
+        "reference": "TXN-20251101-008"
+      }
+    ],
+    "meta": {
+      "currentPage": 1,
+      "totalPages": 2,
+      "totalItems": 8,
+      "itemsPerPage": 10
+    }
+  }
+}
